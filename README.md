@@ -15,7 +15,7 @@ To better promote and optimize our latest version, we are launching a limited-ti
 
 ### How to participate:
 
-1.	Use it continuously for 7 days with a total transaction volume xceeding $100,000.
+1.	Use it continuously for 7 days with a total transaction volume xceeding $50,000.
 2.	Refer at least 3 friends, and their total transaction volume exceeds $30,000.
 > Note: We do not recommend opening multiple accounts to cheat in order to claim rewards.
 
@@ -25,7 +25,7 @@ To better promote and optimize our latest version, we are launching a limited-ti
 •	Your referred friends can also participate, the more you refer, the bigger the rewards!
 > Note: This feature is disabled by default.
 
-📅  Campaign ends on: September 1, 2025
+📅  Campaign ends on: September 1, 2025 
 
 💵  Once you’ve completed the conditions, please add my Discord to claim your reward: `warp_abbott`
 
